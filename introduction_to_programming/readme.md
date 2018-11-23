@@ -35,3 +35,13 @@
 * Variables Exercise 2 Walkthrough
 * Variables Exercise 3
 * Variables Exercise 3 Walkthrough
+
+## [Loops](/introduction_to_programming/loops/readme.md)
+* Count E
+* Count A
+* Count Vowels
+* Sum Nums
+* Factorial
+* Reverse
+* Is Palindrome
+
