@@ -47,8 +47,8 @@
 
 ## [Arrays](/introduction_to_programming/arrays/readme.md)
 * [Doubler](/introduction_to_programming/arrays/doubler/readme.md)
-* Yell
-* Element Times Index
+* [Yell](/introduction_to_programming/arrays/yell/readme.md)
+* [Element Times Index](/introduction_to_programming/arrays/element_times_index/readme.md)
 * Even Nums
 * Range
 * OddRange
