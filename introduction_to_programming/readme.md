@@ -45,3 +45,17 @@
 * Reverse
 * Is Palindrome
 
+## [Arrays](/introduction_to_programming/arrays/readme.md)
+* [Doubler](/introduction_to_programming/arrays/doubler/readme.md)
+* Yell
+* Element Times Index
+* Even Nums
+* Range
+* OddRange
+* Reverse Range
+* First Half
+* Factors Of
+* Select Odds
+* Select Long Words
+* Sum Elements
+* Fizz Buzz

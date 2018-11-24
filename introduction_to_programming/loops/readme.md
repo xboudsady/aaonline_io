@@ -84,3 +84,51 @@ def count_a(word)
   return count  
 end
 ```
+
+---
+
+## Count Vowels
+
+Write a method, `count_vowels(word)`, that takes in a string word and returns the number of vowels in the word. Vowels are the letters a, e, i, o, u.
+
+### Setup
+
+```ruby
+def count_vowels(word)
+
+end
+
+puts count_vowels("bootcamp")  # => 3
+puts count_vowels("apple")     # => 2
+puts count_vowels("pizza")     # => 2
+```
+### Solution
+
+```ruby
+def count_vowels(string)
+  # Create a variable to hold our number of vowels 
+  num_vowels = 0
+
+  # Counter for our loop
+  i = 0
+
+  # Loop through of string lenght of character
+  while i < string.length
+    # Find the matching string character for vowels
+    if (string[i] == "a" || string[i] == "e" || string[i] == "i" || string[i] == "o" || string[i] == "u")
+      # For Each match through the loop, add 1 to our total count
+      num_vowels += 1
+    end
+
+    # Increment our counter to end loop
+    i += 1
+  end
+
+  return num_vowels
+end
+
+puts count_vowels("bootcamp")  # => 3
+puts count_vowels("apple")     # => 2
+puts count_vowels("pizza")     # => 2
+```
+
