@@ -99,6 +99,6 @@ def longest_palindrome(string)
 end
 
 puts longest_palindrome('abcbd') # bcb
-puts longest_palindrome('abba') # bcb
-puts longest_palindrome('abcdeffe') # bcb
+puts longest_palindrome('abba') # abba
+puts longest_palindrome('abcdeffe') # effe
 ```
