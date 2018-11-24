@@ -52,10 +52,10 @@
 * [Even Nums](/introduction_to_programming/arrays/even_nums/readme.md)
 * [Range](/introduction_to_programming/arrays/range/readme.md)
 * [OddRange](/introduction_to_programming/arrays/odd_range/readme.md)
-* Reverse Range
-* First Half
-* Factors Of
-* Select Odds
+* [Reverse Range](/introduction_to_programming/arrays/reverse_range/readme.md)
+* [First Half](/introduction_to_programming/arrays/first_half/readme.md)
+* [Factors Of](/introduction_to_programming/arrays/factors_of/readme.md)
+* [Select Odds](/introduction_to_programming/arrays/select_odds/readme.md)
 * Select Long Words
 * Sum Elements
 * Fizz Buzz
