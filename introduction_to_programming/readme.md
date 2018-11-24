@@ -56,6 +56,6 @@
 * [First Half](/introduction_to_programming/arrays/first_half/readme.md)
 * [Factors Of](/introduction_to_programming/arrays/factors_of/readme.md)
 * [Select Odds](/introduction_to_programming/arrays/select_odds/readme.md)
-* Select Long Words
+* [Select Long Words](/introduction_to_programming/arrays/select_long_words/readme.md)
 * Sum Elements
 * Fizz Buzz
