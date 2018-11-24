@@ -75,3 +75,39 @@ puts
 print arr                               # => ["candace", "dave"]
 puts
 ```
+
+---
+
+# Index & Include Methods Lecture
+
+* `array/string.index(ele)` - evalutes to the index where **ele** is found
+* `array/string.include?(ele)` - evalutes to the boolean indicating if **ele** is found
+
+```ruby
+arr = ["SF", "NY", "LA"]
+
+puts arr.index("LA")      # => 2
+puts arr.index("NY")      # => 1
+puts arr.index("NJ")      # => 
+```
+Using the `include` method to find element in the array.
+
+```ruby
+arr = ["SF", "NY", "LA"]
+
+puts arr.include?("NJ")      # => false
+puts arr.include?("SF")      # => true
+
+
+str = "hello"
+
+puts str.index("ello")       # => 1
+puts str.index("elloz")      # => 
+
+puts str.include?("e")       # => true
+puts str.include?("E")       # => false
+puts str.include?("ello")    # => true
+
+
+```
+
