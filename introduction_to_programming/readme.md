@@ -49,9 +49,9 @@
 * [Doubler](/introduction_to_programming/arrays/doubler/readme.md)
 * [Yell](/introduction_to_programming/arrays/yell/readme.md)
 * [Element Times Index](/introduction_to_programming/arrays/element_times_index/readme.md)
-* Even Nums
-* Range
-* OddRange
+* [Even Nums](/introduction_to_programming/arrays/even_nums/readme.md)
+* [Range](/introduction_to_programming/arrays/range/readme.md)
+* [OddRange](/introduction_to_programming/arrays/odd_range/readme.md)
 * Reverse Range
 * First Half
 * Factors Of
