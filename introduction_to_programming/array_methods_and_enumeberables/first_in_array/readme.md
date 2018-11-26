@@ -50,3 +50,16 @@ def first_in_array(arr, el1, el2)
   return arr[earlier]
 end
 ```
+
+## Alternative Solution
+
+```ruby
+def first_in_array(arr, el1, el2)
+    # use the .index() method to get the index position of the element
+    # we want to return the lower nunber
+    if arr.index(el1) < arr.index(el2)
+        return el1
+    end
+    return el2
+end
+```
