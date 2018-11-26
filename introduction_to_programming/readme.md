@@ -57,5 +57,21 @@
 * [Factors Of](/introduction_to_programming/arrays/factors_of/readme.md)
 * [Select Odds](/introduction_to_programming/arrays/select_odds/readme.md)
 * [Select Long Words](/introduction_to_programming/arrays/select_long_words/readme.md)
-* Sum Elements
-* Fizz Buzz
+* [Sum Elements](/introduction_to_programming/arrays/sum_elements/readme.md)
+* [Fizz Buzz](/introduction_to_programming/arrays/fizz_buzz/readme.md)
+
+## [Array Methods & Enumberables](/introduction_to_programming/array_methods_and_enumeberables/readme.md)
+* [To Initials](/introduction_to_programming/array_methods_and_enumeberables/to_initials/readme.md)
+* [First In Array](/introduction_to_programming/array_methods_and_enumeberables/first_in_array/readme.md)
+* Abbreviate Sentence
+* Format Name
+* Is Valid Name
+* Is Valid Email
+* Array Translate
+* Reverse Words
+* Rotate Array
+* Pig Latin Word
+* Combinations
+* Opposite Count
+* Two D Sum
+* Two D Translate
