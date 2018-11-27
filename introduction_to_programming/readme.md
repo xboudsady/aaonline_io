@@ -68,7 +68,7 @@
 * [Is Valid Name](/introduction_to_programming/array_methods_and_enumeberables/is_valid_name/readme.md)
 * [Is Valid Email](/introduction_to_programming/array_methods_and_enumeberables/is_valid_email/readme.md)
 * [Array Translate](/introduction_to_programming/array_methods_and_enumeberables/array_translate/readme.md)
-* Reverse Words
+* [Reverse Words]
 * Rotate Array
 * Pig Latin Word
 * Combinations
