@@ -63,10 +63,10 @@
 ## [Array Methods & Enumberables](/introduction_to_programming/array_methods_and_enumeberables/readme.md)
 * [To Initials](/introduction_to_programming/array_methods_and_enumeberables/to_initials/readme.md)
 * [First In Array](/introduction_to_programming/array_methods_and_enumeberables/first_in_array/readme.md)
-* Abbreviate Sentence
-* Format Name
-* Is Valid Name
-* Is Valid Email
+* [Abbreviate Sentence](/introduction_to_programming/array_methods_and_enumeberables/abbreviate_sentence/readme.md)
+* [Format Name](/introduction_to_programming/array_methods_and_enumeberables/format_name/readme.md)
+* [Is Valid Name](/introduction_to_programming/array_methods_and_enumeberables/is_valid_name/readme.md)
+* [Is Valid Email](/introduction_to_programming/array_methods_and_enumeberables/is_valid_email/readme.md)
 * Array Translate
 * Reverse Words
 * Rotate Array
