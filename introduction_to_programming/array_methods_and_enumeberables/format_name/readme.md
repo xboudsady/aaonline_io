@@ -64,3 +64,26 @@ end
 puts format_name("chase WILSON") # => "Chase Wilson"
 puts format_name("brian CrAwFoRd scoTT") # => "Brian Crawford Scott"
 ```
+
+## Solution 2
+
+```ruby
+def format_name(str)
+  # split the str to an array
+  parts = str.split(" ")
+
+  new_parts = []
+  
+  # loop through each word
+  # take the first index of word, and use upcase() method.
+  # Use + slice() method with a range to add the rest of the characters -1 to include last index
+  # downcase the remaining character index
+  parts.each do |part|
+    new_parts << part[0].upcase + part[1..-1].downcase
+  end
+
+  # return array join at the space
+  return new_parts.join(" ")
+
+end
+```
