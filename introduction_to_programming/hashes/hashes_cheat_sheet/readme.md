@@ -31,7 +31,7 @@ p.hash.has_value?(20)               # prints false
 p.hash.has_value?("color")          # prints false
 ```
 
-# Hash Enumberable Methods
+## Hash Enumberable Methods
 
 ```ruby
 hash = { "name" => "App Academy", "color" => "red" }
@@ -47,4 +47,21 @@ hash.each_key { |key| p key }       # prints
 hash.each_value { |val| p val }     # prints
 # "App Academy"
 # "red"
+```
+
+## Hash.new
+
+```ruby
+plain_ash = { }
+plain.ash["city"] = "SF"
+
+p plain_hash["city"]        # prints "SF"
+p plain_hash["country"]     # prints nil
+
+
+hash_with_default = Hash.new("???")
+hash_with_default["city"] = "NYC"
+
+p hash_with_default["city"]         # prints "NYC"
+p hash_with_default["country"]      # prints "???
 ```
