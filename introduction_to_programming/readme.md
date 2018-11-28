@@ -75,3 +75,19 @@
 * [Opposite Count](/introduction_to_programming/array_methods_and_enumeberables/opposite_count/readme.md)
 * [Two D Sum](/introduction_to_programming/array_methods_and_enumeberables/two_d_sum/readme.md)
 * [Two D Translate](/introduction_to_programming/array_methods_and_enumeberables/two_d_translate/readme.md)
+
+## [Hashes](/introduction_to_programming/hashes/readme.md)
+* [Hashes Cheat Sheet](/introduction_to_programming/hashes/hashes_cheat_sheet/readme.md)
+* [Get Double Age](/introduction_to_programming/hashes/get_double_age/readme.md)
+* [Get Full Name](/introduction_to_programming/hashes/get_full_name/readme.md)
+* Word Lengths
+* Retrieve Values
+* Cat Builder
+* Ae Count
+* Element Count
+* Select Upcase Keys
+* Hand Score
+* Frequent Letters
+* Hash To Pairs
+* Unique Elements
+* Element Replace
