@@ -71,7 +71,7 @@
 * [Reverse Words](/introduction_to_programming/array_methods_and_enumeberables/reverse_words/readme.md)
 * [Rotate Array](/introduction_to_programming/array_methods_and_enumeberables/rotate_array/readme.md)
 * [Pig Latin Word](/introduction_to_programming/array_methods_and_enumeberables/pig_latin_word/readme.md)
-* Combinations
-* Opposite Count
-* Two D Sum
+* [Combinations](/introduction_to_programming/array_methods_and_enumeberables/combinations/readme.md)
+* [Opposite Count](/introduction_to_programming/array_methods_and_enumeberables/opposite_count/readme.md)
+* [Two D Sum](/introduction_to_programming/array_methods_and_enumeberables/two_d_sum/readme.md)
 * Two D Translate
