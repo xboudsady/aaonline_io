@@ -74,4 +74,4 @@
 * [Combinations](/introduction_to_programming/array_methods_and_enumeberables/combinations/readme.md)
 * [Opposite Count](/introduction_to_programming/array_methods_and_enumeberables/opposite_count/readme.md)
 * [Two D Sum](/introduction_to_programming/array_methods_and_enumeberables/two_d_sum/readme.md)
-* Two D Translate
+* [Two D Translate](/introduction_to_programming/array_methods_and_enumeberables/two_d_translate/readme.md)
