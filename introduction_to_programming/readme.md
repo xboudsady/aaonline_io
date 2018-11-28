@@ -80,8 +80,8 @@
 * [Hashes Cheat Sheet](/introduction_to_programming/hashes/hashes_cheat_sheet/readme.md)
 * [Get Double Age](/introduction_to_programming/hashes/get_double_age/readme.md)
 * [Get Full Name](/introduction_to_programming/hashes/get_full_name/readme.md)
-* Word Lengths
-* Retrieve Values
+* [Word Lengths](/introduction_to_programming/hashes/word_lengths/readme.md)
+* [Retrieve Values](/introduction_to_programming/hashes/retrieve_values/readme.md)
 * Cat Builder
 * Ae Count
 * Element Count
