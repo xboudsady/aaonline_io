@@ -85,7 +85,7 @@
 * [Cat Builder](/introduction_to_programming/hashes/cat_builder/readme.md)
 * [Ae Count](/introduction_to_programming/hashes/ae_count/readme.md)
 * [Element Count](/introduction_to_programming/hashes/element_count/readme.md)
-* Select Upcase Keys
+* [Select Upcase Keys](/introduction_to_programming/hashes/select_upcase_keys/readme.md)
 * Hand Score
 * Frequent Letters
 * Hash To Pairs
