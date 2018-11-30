@@ -82,9 +82,9 @@
 * [Get Full Name](/introduction_to_programming/hashes/get_full_name/readme.md)
 * [Word Lengths](/introduction_to_programming/hashes/word_lengths/readme.md)
 * [Retrieve Values](/introduction_to_programming/hashes/retrieve_values/readme.md)
-* Cat Builder
-* Ae Count
-* Element Count
+* [Cat Builder](/introduction_to_programming/hashes/cat_builder/readme.md)
+* [Ae Count](/introduction_to_programming/hashes/ae_count/readme.md)
+* [Element Count](/introduction_to_programming/hashes/element_count/readme.md)
 * Select Upcase Keys
 * Hand Score
 * Frequent Letters
