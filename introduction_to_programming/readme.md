@@ -86,7 +86,7 @@
 * [Ae Count](/introduction_to_programming/hashes/ae_count/readme.md)
 * [Element Count](/introduction_to_programming/hashes/element_count/readme.md)
 * [Select Upcase Keys](/introduction_to_programming/hashes/select_upcase_keys/readme.md)
-* Hand Score
+* [Hand Score](/introduction_to_programming/hashes/hand_score/readme.md)
 * Frequent Letters
 * Hash To Pairs
 * Unique Elements
