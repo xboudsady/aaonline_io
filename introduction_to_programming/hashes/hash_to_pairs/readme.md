@@ -27,6 +27,7 @@ def hash_to_pairs(hash)
 
     # loop through our hash key and value
     hash.each do |key, value|
+        # shovel key, value as an array to our array
         arr << [key, value]
     end
 
