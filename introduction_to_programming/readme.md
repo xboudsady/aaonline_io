@@ -88,6 +88,6 @@
 * [Select Upcase Keys](/introduction_to_programming/hashes/select_upcase_keys/readme.md)
 * [Hand Score](/introduction_to_programming/hashes/hand_score/readme.md)
 * [Frequent Letters](/introduction_to_programming/hashes/frequent_letters/readme.md)
-* Hash To Pairs
+* [Hash To Pairs](/introduction_to_programming/hashes/hash_to_pairs/readme.md)
 * Unique Elements
 * Element Replace
