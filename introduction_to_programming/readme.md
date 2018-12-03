@@ -97,7 +97,7 @@
 * [Map By Key](/introduction_to_programming/advanced_problems/map_by_key/readme.md)
 * [Yell Sentence](/introduction_to_programming/advanced_problems/yell_sentence/readme.md)
 * [Whisper Words](/introduction_to_programming/advanced_problems/whisper_words/readme.md)
-* O Words
+* [O Words](/introduction_to_programming/advanced_problems/o_words/readme.md)
 * Last Index
 * Most Vowels
 * Prime
