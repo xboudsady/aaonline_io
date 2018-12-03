@@ -91,3 +91,29 @@
 * [Hash To Pairs](/introduction_to_programming/hashes/hash_to_pairs/readme.md)
 * [Unique Elements](/introduction_to_programming/hashes/unique_elements/readme.md)
 * [Element Replace](/introduction_to_programming/hashes/element_replace/readme.md)
+
+## [Advanced Problems](/introduction_to_programming/hashes/readme.md)
+* Map By Name
+* Map By Key
+* Yell Sentence
+* Whisper Words
+* O Words
+* Last Index
+* Most Vowels
+* Prime
+* Pick Primes
+* Prime Factors
+* Greatest Factor Array
+* Perfect Square
+* Triple Sequence
+* Summation Sequence
+* Fibonacci
+* Caesar Cipher
+* Vowel Cipher
+* Double Letter Count
+* Adjacent Sum
+* Pyramid Sum
+* All Else Equal
+* Anagrams
+* Consonant Cancel
+* Same Char Collapse
