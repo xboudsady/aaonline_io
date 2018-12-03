@@ -95,7 +95,7 @@
 ## [Advanced Problems](/introduction_to_programming/advanced_problems/readme.md)
 * [Map By Name](/introduction_to_programming/advanced_problems/map_by_name/readme.md)
 * [Map By Key](/introduction_to_programming/advanced_problems/map_by_key/readme.md)
-* Yell Sentence
+* [Yell Sentence](/introduction_to_programming/advanced_problems/yell_sentence/readme.md)
 * Whisper Words
 * O Words
 * Last Index
