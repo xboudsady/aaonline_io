@@ -92,8 +92,8 @@
 * [Unique Elements](/introduction_to_programming/hashes/unique_elements/readme.md)
 * [Element Replace](/introduction_to_programming/hashes/element_replace/readme.md)
 
-## [Advanced Problems](/introduction_to_programming/hashes/readme.md)
-* Map By Name
+## [Advanced Problems](/introduction_to_programming/advanced_problems/readme.md)
+* [Map By Name](/introduction_to_programming/advanced_problems/map_by_name/readme.md)
 * Map By Key
 * Yell Sentence
 * Whisper Words
