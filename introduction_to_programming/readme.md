@@ -99,7 +99,7 @@
 * [Whisper Words](/introduction_to_programming/advanced_problems/whisper_words/readme.md)
 * [O Words](/introduction_to_programming/advanced_problems/o_words/readme.md)
 * [Last Index](/introduction_to_programming/advanced_problems/last_index/readme.md)
-* Most Vowels
+* [Most Vowels](/introduction_to_programming/advanced_problems/most_vowels/readme.md)
 * Prime
 * Pick Primes
 * Prime Factors
