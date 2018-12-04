@@ -102,7 +102,7 @@
 * [Most Vowels](/introduction_to_programming/advanced_problems/most_vowels/readme.md)
 * [Prime](/introduction_to_programming/advanced_problems/prime/readme.md)
 * [Pick Primes](/introduction_to_programming/advanced_problems/pick_primes/readme.md)
-* Prime Factors
+* [Prime Factors](/introduction_to_programming/advanced_problems/prime_factors/readme.md)
 * Greatest Factor Array
 * Perfect Square
 * Triple Sequence
