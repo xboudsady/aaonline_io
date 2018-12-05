@@ -25,7 +25,7 @@ def summation_sequence(start, length)
     # create an array to be returned
     seq = [start]
 
-    whle seq.length < length
+    while seq.length < length
         # grab the last element
         last_ele = seq[-1]
         # get the summation of the last element

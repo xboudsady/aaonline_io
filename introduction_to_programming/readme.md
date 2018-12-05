@@ -103,11 +103,11 @@
 * [Prime](/introduction_to_programming/advanced_problems/prime/readme.md)
 * [Pick Primes](/introduction_to_programming/advanced_problems/pick_primes/readme.md)
 * [Prime Factors](/introduction_to_programming/advanced_problems/prime_factors/readme.md)
-* Greatest Factor Array
-* Perfect Square
-* Triple Sequence
-* Summation Sequence
-* Fibonacci
+* [Greatest Factor Array](/introduction_to_programming/advanced_problems/greatest_factor_array/readme.md)
+* [Perfect Square](/introduction_to_programming/advanced_problems/perfect_square/readme.md)
+* [Triple Sequence](/introduction_to_programming/advanced_problems/triple_sequence/readme.md)
+* [Summation Sequence](/introduction_to_programming/advanced_problems/summation_sequence/readme.md)
+* [Fibonacci](/introduction_to_programming/advanced_problems/fibonacci/readme.md)
 * Caesar Cipher
 * Vowel Cipher
 * Double Letter Count
