@@ -108,7 +108,7 @@
 * [Triple Sequence](/introduction_to_programming/advanced_problems/triple_sequence/readme.md)
 * [Summation Sequence](/introduction_to_programming/advanced_problems/summation_sequence/readme.md)
 * [Fibonacci](/introduction_to_programming/advanced_problems/fibonacci/readme.md)
-* Caesar Cipher
+* [Caesar Cipher](/introduction_to_programming/advanced_problems/caesar_cipher/readme.md)
 * Vowel Cipher
 * Double Letter Count
 * Adjacent Sum
