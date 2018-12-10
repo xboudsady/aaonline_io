@@ -109,7 +109,7 @@
 * [Summation Sequence](/introduction_to_programming/advanced_problems/summation_sequence/readme.md)
 * [Fibonacci](/introduction_to_programming/advanced_problems/fibonacci/readme.md)
 * [Caesar Cipher](/introduction_to_programming/advanced_problems/caesar_cipher/readme.md)
-* Vowel Cipher
+* [Vowel Cipher](/introduction_to_programming/advanced_problems/vowel_cipher/readme.md)
 * Double Letter Count
 * Adjacent Sum
 * Pyramid Sum
