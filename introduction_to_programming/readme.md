@@ -110,7 +110,7 @@
 * [Fibonacci](/introduction_to_programming/advanced_problems/fibonacci/readme.md)
 * [Caesar Cipher](/introduction_to_programming/advanced_problems/caesar_cipher/readme.md)
 * [Vowel Cipher](/introduction_to_programming/advanced_problems/vowel_cipher/readme.md)
-* Double Letter Count
+* [Double Letter Count](/introduction_to_programming/advanced_problems/double_letter_count/readme.md)
 * Adjacent Sum
 * Pyramid Sum
 * All Else Equal
