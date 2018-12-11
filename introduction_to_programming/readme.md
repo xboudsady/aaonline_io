@@ -111,7 +111,7 @@
 * [Caesar Cipher](/introduction_to_programming/advanced_problems/caesar_cipher/readme.md)
 * [Vowel Cipher](/introduction_to_programming/advanced_problems/vowel_cipher/readme.md)
 * [Double Letter Count](/introduction_to_programming/advanced_problems/double_letter_count/readme.md)
-* Adjacent Sum
+* [Adjacent Sum](/introduction_to_programming/advanced_problems/adjacent_sum/readme.md)
 * Pyramid Sum
 * All Else Equal
 * Anagrams
