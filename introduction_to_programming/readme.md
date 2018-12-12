@@ -113,7 +113,7 @@
 * [Double Letter Count](/introduction_to_programming/advanced_problems/double_letter_count/readme.md)
 * [Adjacent Sum](/introduction_to_programming/advanced_problems/adjacent_sum/readme.md)
 * [Pyramid Sum](/introduction_to_programming/advanced_problems/pyramid_sum/readme.md)
-* All Else Equal
+* [All Else Equal](/introduction_to_programming/advanced_problems/all_else_equal/readme.md)
 * Anagrams
 * Consonant Cancel
 * Same Char Collapse
