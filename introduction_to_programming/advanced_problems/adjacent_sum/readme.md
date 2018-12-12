@@ -18,5 +18,22 @@ puts
 ## Solution
 
 ```ruby
+def adjacent_sum(arr)
+    # create an array to be returned
+    sums = []
 
+    # iterate through our array being passed in
+    arr.each_with_index do |ele, i|
+        # test for last element in our array (cant add a nil), if false run code block
+        if != arr.length - 1
+            # grab the conscutive indices, looking 1 element ahead
+            new_ele = ele + arr[i + 1]
+            # shovel the new element into our array
+            sums << new_ele
+        end
+    end
+
+    # return our new array
+    return sums
+end
 ```

@@ -112,7 +112,7 @@
 * [Vowel Cipher](/introduction_to_programming/advanced_problems/vowel_cipher/readme.md)
 * [Double Letter Count](/introduction_to_programming/advanced_problems/double_letter_count/readme.md)
 * [Adjacent Sum](/introduction_to_programming/advanced_problems/adjacent_sum/readme.md)
-* Pyramid Sum
+* [Pyramid Sum](/introduction_to_programming/advanced_problems/pyramid_sum/readme.md)
 * All Else Equal
 * Anagrams
 * Consonant Cancel
