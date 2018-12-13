@@ -116,4 +116,4 @@
 * [All Else Equal](/introduction_to_programming/advanced_problems/all_else_equal/readme.md)
 * [Anagrams](/introduction_to_programming/advanced_problems/anagrams/readme.md)
 * [Consonant Cancel](/introduction_to_programming/advanced_problems/consonant_cancel/readme.md)
-* Same Char Collapse
+* [Same Char Collapse](/introduction_to_programming/advanced_problems/same_char_collapse/readme.md)
