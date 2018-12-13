@@ -115,5 +115,5 @@
 * [Pyramid Sum](/introduction_to_programming/advanced_problems/pyramid_sum/readme.md)
 * [All Else Equal](/introduction_to_programming/advanced_problems/all_else_equal/readme.md)
 * [Anagrams](/introduction_to_programming/advanced_problems/anagrams/readme.md)
-* Consonant Cancel
+* [Consonant Cancel](/introduction_to_programming/advanced_problems/consonant_cancel/readme.md)
 * Same Char Collapse
