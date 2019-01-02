@@ -3,6 +3,7 @@
 # Write a method that returns the range of its argument (an array of integers).
 def range(arr)
   # your code goes here
+  return arr.max - arr.min
 end
 
 # Write a method that returns a boolean indicating whether an array is in sorted
@@ -11,6 +12,7 @@ end
 # ["dog", "cat"] => false
 def in_order?(arr)
   # your code goes here
+  return arr == arr.sort
 end
 
 
@@ -19,11 +21,24 @@ end
 # Write a method that returns the number of vowels in its argument
 def num_vowels(str)
   # your code goes here
+  str.downcase!
+  return str.count("a") + str.count("e") + str.count("i") + str.count("o") + str.count("u")
 end
 
 # Write a method that returns its argument with all its vowels removed.
 def devowel(str)
   # your code goes here
+  str.delete!("a")
+  str.delete!("A")
+  str.delete!("e")
+  str.delete!("E")
+  str.delete!("i")
+  str.delete!("I")
+  str.delete!("o")
+  str.delete!("O")
+  str.delete!("u")
+  str.delete!("U")
+  return str
 end
 
 
@@ -34,6 +49,11 @@ end
 # descending_digits(4291) #=> ["9", "4", "2", "1"]
 def descending_digits(int)
   # your code goes here
+  # 1. convert the integer to a string
+  # 2. split its characters
+  # 3. sort the resulting array
+  # 4. reverse the order
+  int.to_s.chars.sort.reverse
 end
 
 # Write a method that returns a boolean indicating whether a string has
@@ -41,6 +61,7 @@ end
 # repeating_letters?("Aa") => true
 def repeating_letters?(str)
   # your code goes here
+  str.downcase.chars.uniq.length != str.length
 end
 
 # Write a method that converts an array of ten integers into a phone number in
