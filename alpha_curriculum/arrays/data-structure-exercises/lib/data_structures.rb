@@ -68,12 +68,19 @@ end
 # the format "(123) 456-7890".
 def to_phone_number(arr)
   # your code goes here
+  chunk_one = arr[0..2].join
+  chunk_two = arr[3..5].join
+  chunk_three = arr[6..9].join
+  return "(" + chunk_one + ")" + " " + chunk_two + "-" + chunk_three
 end
 
 # Write a method that returns the range of a string of comma-separated integers,
 # e.g., str_range("4,1,8") #=> 7
 def str_range(str)
   # your code goes here
+  arr = str.split(",")
+  arr = arr.sort
+  return arr[-1].to_i - arr[0].to_i
 end
 
 
@@ -85,4 +92,7 @@ end
 # code, but the solution is tricky!
 def my_rotate(arr, offset=1)
   # your code goes here
+  split_idx = offset % arr.length
+
+  return arr.drop(split_idx) + arr.take(split_idx)
 end
