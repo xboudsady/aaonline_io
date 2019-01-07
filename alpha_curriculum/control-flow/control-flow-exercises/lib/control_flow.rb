@@ -76,7 +76,18 @@ end
 # character is lowercase and every even is uppercase, e.g.
 # weirdcase("weirdcase") => "wEiRdCaSe"
 def weirdcase(str)
+    weirdo = ""
+    chars = str.chars
+    
+    chars.each_index do |i|
+        if i.odd?
+            weirdo += chars[i].upcase
+        else
+            weirdo += chars[i].downcase
+        end
+    end
 
+    return weirdo
 end
 
 # Reverse all words of five more more letters in a string. Return the resulting
