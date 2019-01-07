@@ -60,7 +60,16 @@ end
 # Write your own version of the join method. separator = "" ensures that the
 # default seperator is an empty string.
 def my_join(arr, separator = "")
+    join = ""
+    
+    arr.each_index do |i|
+        join += arr[i]
+        unless i == arr.length - 1
+            join += separator
+        end
+    end
 
+    return join
 end
 
 # Write a method that converts its argument to weirdcase, where every odd
