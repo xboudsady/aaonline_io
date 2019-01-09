@@ -94,7 +94,16 @@ end
 # string, e.g., reverse_five("Looks like my luck has reversed") => "skooL like
 # my luck has desrever")
 def reverse_five(str)
+    result_array = []
 
+    str.split.each do |word|
+        if word.length > 4
+            word = word.reverse
+        end
+        result_array << word
+    end
+
+    return result_array.join(" ")
 end
 
 # Return an array of integers from 1 to n (inclusive), except for each multiple
