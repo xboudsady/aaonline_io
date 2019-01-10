@@ -132,18 +132,40 @@ end
 # Write a method that returns a new array containing all the elements of the
 # original array in reverse order.
 def my_reverse(arr)
-
+    reversed = []
+    arr.each do |el|
+        reversed.unshift(el)
+    end
+    return reversed
 end
 
 # Write a method that returns a boolean indicating whether the argument is
 # prime.
 def prime?(num)
+    if num == 1
+        return false
+    end
 
+    (2..num/2).each do |i|
+        if num % i == 0
+            return false
+        end
+    end
+
+    return true
 end
 
 # Write a method that returns a sorted array of the factors of its argument.
 def factors(num)
+    results = []
 
+    (1..num).each do |i|
+        if num % i == 0
+            results << i
+        end
+    end
+
+    return results
 end
 
 # Write a method that returns a sorted array of the prime factors of its argument.
